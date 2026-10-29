@@ -1,3 +1,6 @@
 Se puede trabajar directamente desde la terminal sin necesidad de entrar en las carpetas
 El trabajo entre R y Git es complementario
-Aprender los comandos es esencial para el trabajo en Git bash
+Aprender los comandos es opcional para el trabajo en Git bash ya que pueden ser consultados en internet
+
+De debe tener en cuenta en las carpetas en las que se trabaja
+
